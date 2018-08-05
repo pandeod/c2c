@@ -7,8 +7,6 @@ class IntersectionArray{
     {
         int[] ar1={1,2,4,5,7,8,9};
         int[] ar2={1,3,4,7,8,10,11};
-
-        
     }
 
     static int getMax(int[] x)
