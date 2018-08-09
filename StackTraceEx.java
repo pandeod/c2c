@@ -35,9 +35,10 @@ class StackTraceEx{
 
 /*output
 
-::::::::: java.lang.ArithmeticException: / by zero                                                  d111(StackTraceEx        at StackTraceEx.method111(StackTraceEx.javat StackTraceEx.ma:20)
-        at StackTraceEx.method11(StackTraceEx.java:15)                                              kTraceEx.java:7)
-        at StackTraceEx.method1(StackTraceEx.java:11)                                               r outError = new
+::::::::: java.lang.ArithmeticException: / by zero
+        at StackTraceEx.method111(StackTraceEx.java:23)
+        at StackTraceEx.method11(StackTraceEx.java:15)
+        at StackTraceEx.method1(StackTraceEx.java:11)
         at StackTraceEx.main(StackTraceEx.java:7)
  ::::::::::
 
