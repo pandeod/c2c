@@ -50,7 +50,7 @@ class DetectCycle{
 
             //System.out.println("Slow : "+slow.data+"  fast : "+fast.data);
             
-            if(slow==fast)
+            if(slow.equals(fast))
                 return true;
         }
         return false;
