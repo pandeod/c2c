@@ -153,3 +153,20 @@ class BinaryTree{
         tr.printLevelOrder();
     }
 }
+
+
+// Output :
+
+// A:\c2c_classnotes\c2c\binary_tree>java BinaryTree
+
+// Inorder :
+//  -> 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 10
+// LeftView : -> 2 -> 1 -> 3 -> 6
+// Height of Tree : 4
+
+// Level wise tree :
+
+// Level 1: 6      min value: 6
+// Level 2: 3 7      min value: 3
+// Level 3: 1 4 8      min value: 1
+// Level 4: 2 5 10      min value: 2
