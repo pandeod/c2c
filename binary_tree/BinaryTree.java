@@ -114,6 +114,8 @@ class BinaryTree{
             System.out.print("\nLevel "+i+": ");
             for(int n:list)
                 System.out.print(n+" ");
+            
+            System.out.print("     min value: "+Collections.min(list));
         }
     }
 
