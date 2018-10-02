@@ -78,4 +78,10 @@ class ThreadDemo implements Runnable
     
     The thread scheduler mainly uses preemptive or time slicing scheduling
     to schedule the threads.
+    
+    Threads can be created mainly in 3 different ways
+        1.Extend the java.lang.Thread class
+        2.Implement the java.lang.Runnable interface
+        3.Implement the java.util.concurrent.Callable interface
+    
 */
